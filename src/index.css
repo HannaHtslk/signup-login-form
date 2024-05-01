@@ -1,6 +1,10 @@
 body {
   font-family: sans-serif;
   line-height: 1.5;
+
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(#2a00b7, #42006c);
 }
 
 h1,
